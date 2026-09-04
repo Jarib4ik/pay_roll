@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.Python
+.env
+.idea
+.venv
+allure-results
+.pytest_cache
+.DS_Store
+*.log
+TEST_REPORT.md
+screenshots/
